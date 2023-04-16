@@ -5,9 +5,12 @@
 - 💼 any freelance work? do reach, [email](mailto:novriamsyahh@gmail.com) :)
 
 
+</br>
+
+
 ### 🛠 &nbsp;Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -17,6 +20,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+
+</br>
 
 ### 🤝 &nbsp;Connect with Me
 
